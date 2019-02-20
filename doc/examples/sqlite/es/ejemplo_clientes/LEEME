@@ -1,0 +1,45 @@
+FICHEROS:
+  * 01_esquema.sql
+    Contiene la estructura de la base de datos y los datos.
+    Será la base de datos que los estudiantes usarán para
+    realizar el examen.
+
+    Creado por: profesor.
+
+  * 02_examen_resuelto.sql
+    El examen en si. Debes incluir las soluciones.
+
+    Creado por: profesor.
+
+  * 03_examen_plantilla.sql
+    Examen sin las soluciones. Fichero que entregarás a los
+    estudiantes para la realización del examen (junto con 01_esquema.sql)
+
+    Creado por: sql-gh (copia del fichero anterior eliminando las soluciones).
+
+  * 04_examen_alicia.sql
+  * 04_examen_berto.sql
+  * 04_examen_carlos.sql
+    Examen realizado por los alumnos.
+
+    Creado por: alumnos.
+
+  * 05_ejercicios_con_ayudas.sql
+    TODAS las respuestas de todos los alumnos incluyendo información
+    generada por sql-gh.
+    Debes abrir este fichero y asignar una puntuación a cada ejercicio.
+
+    Creado por: sql-gh.
+
+  * 06_ejercicios_con_ayudas_corregido.sql
+    Fichero anterior incluyendo las puntuaciones.
+
+    Creado por: profesor.
+
+  * 07_examen_alicia.sql
+  * 07_examen_berto.sql
+  * 07_examen_carlos.sql
+    sql-gh lee las puntuaciones dle fichero anterior y las incluye
+    en los exámenes originales de los alumnos.
+
+    Creado por: sql-gh.
